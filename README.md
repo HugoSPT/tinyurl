@@ -1,7 +1,7 @@
 TinyURL Generator
 =================
 
-Run the fileurl.py file;
+Run the tinyurl.py file;
 
 Open your browser in localhost:8000
 
